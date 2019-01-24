@@ -1,0 +1,8 @@
+a=int(input("\nenter the number"))
+b=input("\nenter the string:")
+c=list(b)
+d=0
+while a>0:
+print(c[d],end="")
+d=d+1
+a=a-1
